@@ -1,0 +1,4 @@
+name: agda-pfpl
+include:
+  src
+  agda-stdlib/src/
